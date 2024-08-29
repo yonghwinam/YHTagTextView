@@ -56,7 +56,7 @@ struct ContentView: View {
 ```
 
 ## Preview
-![Preview1](https://raw.githubusercontent.com/yonghwinam/YHTagTextView/main/Example/Example/Preview%20Content/Preview%20Assets.xcassets/preview_001.imageset/preview_001.png)![Preview2](https://raw.githubusercontent.com/yonghwinam/YHTagTextView/main/Example/Example/Preview%20Content/Preview%20Assets.xcassets/preview_002.imageset/preview_002.png)
+<div style="display: flex; align-items: center;"> <img src="https://raw.githubusercontent.com/yonghwinam/YHTagTextView/main/Example/Example/Preview%20Content/Preview%20Assets.xcassets/preview_001.imageset/preview_001.png" alt="Preview1" style="width: 45%; margin-right: 5%;"> <img src="https://raw.githubusercontent.com/yonghwinam/YHTagTextView/main/Example/Example/Preview%20Content/Preview%20Assets.xcassets/preview_002.imageset/preview_002.png" alt="Preview2" style="width: 45%;"> </div>
 
 ## License
 
