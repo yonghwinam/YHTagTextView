@@ -55,6 +55,9 @@ struct ContentView: View {
 }
 ```
 
+## Preview
+![Demo](https://raw.githubusercontent.com/yonghwinam/YHTagTextView/main/Example/Example/Preview%20Content/Preview%20Assets.xcassets/preview_001.imageset/preview_001.png)
+
 ## License
 
 YHTagTextView is released under the MIT license. [See LICENSE](https://github.com/yonghwinam/YHTagTextView/blob/main/LICENSE) for details.
