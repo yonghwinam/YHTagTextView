@@ -56,8 +56,7 @@ struct ContentView: View {
 ```
 
 ## Preview
-![Preview1](https://raw.githubusercontent.com/yonghwinam/YHTagTextView/main/Example/Example/Preview%20Content/Preview%20Assets.xcassets/preview_001.imageset/preview_001.png)
-![Preview2](https://raw.githubusercontent.com/yonghwinam/YHTagTextView/main/Example/Example/Preview%20Content/Preview%20Assets.xcassets/preview_002.imageset/preview_002.png)
+![Preview1](https://raw.githubusercontent.com/yonghwinam/YHTagTextView/main/Example/Example/Preview%20Content/Preview%20Assets.xcassets/preview_001.imageset/preview_001.png)![Preview2](https://raw.githubusercontent.com/yonghwinam/YHTagTextView/main/Example/Example/Preview%20Content/Preview%20Assets.xcassets/preview_002.imageset/preview_002.png)
 
 ## License
 
