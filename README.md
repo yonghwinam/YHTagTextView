@@ -53,6 +53,9 @@ struct ContentView: View {
         }
     }
 }
+```
+
+## License
 
 MIT License
 
