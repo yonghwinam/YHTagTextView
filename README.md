@@ -9,6 +9,12 @@
 - Customizable tag color.
 - Easy-to-use API for quick integration.
 
+## Preview
+<div style="display: flex; align-items: center;"> 
+    <img src="https://raw.githubusercontent.com/yonghwinam/YHTagTextView/main/Example/Example/Preview%20Content/Preview%20Assets.xcassets/preview_001.imageset/preview_001.png" alt="Preview1" style="width: 30%; margin-right: 5%;"> 
+    <img src="https://raw.githubusercontent.com/yonghwinam/YHTagTextView/main/Example/Example/Preview%20Content/Preview%20Assets.xcassets/preview_002.imageset/preview_002.png" alt="Preview2" style="width: 30%;"> 
+</div>
+
 ## Requirements
 
 - **iOS 15.0** or later
@@ -54,12 +60,6 @@ struct ContentView: View {
     }
 }
 ```
-
-## Preview
-<div style="display: flex; align-items: center;"> 
-    <img src="https://raw.githubusercontent.com/yonghwinam/YHTagTextView/main/Example/Example/Preview%20Content/Preview%20Assets.xcassets/preview_001.imageset/preview_001.png" alt="Preview1" style="width: 35%; margin-right: 5%;"> 
-    <img src="https://raw.githubusercontent.com/yonghwinam/YHTagTextView/main/Example/Example/Preview%20Content/Preview%20Assets.xcassets/preview_002.imageset/preview_002.png" alt="Preview2" style="width: 35%;"> 
-</div>
 
 ## License
 
