@@ -21,10 +21,8 @@
 
 1. In Xcode, go to `File > Swift Packages > Add Package Dependency...`.
 2. Enter the following URL and click "Next":
-   ```
-   https://github.com/YourUsername/YHTagTextView.git
-   ```
-4. Set the version rules, click "Next," then select the target you want to add the package to, and click "Finish."
+`https://github.com/YourUsername/YHTagTextView.git`   
+3. Set the version rules, click "Next," then select the target you want to add the package to, and click "Finish."
 
 ## Usage
 
