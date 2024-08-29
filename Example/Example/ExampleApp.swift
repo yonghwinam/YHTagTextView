@@ -1,6 +1,6 @@
 //
 //  ExampleApp.swift
-//  Example
+//  YHTagTextView
 //
 //  Created by Yonghwi on 8/29/24.
 //
