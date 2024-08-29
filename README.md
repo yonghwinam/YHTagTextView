@@ -35,6 +35,7 @@
 
 ```swift
 import SwiftUI
+import YHTagTextView
 
 struct ContentView: View {
     @State private var showAlert = false
